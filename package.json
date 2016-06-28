@@ -1,0 +1,26 @@
+{
+  "name": "eslint-formatter-bargraph",
+  "version": "1.0.0",
+  "description": "Display a bar graph of your most common ESLint violations.",
+  "main": "bargraph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjacobel/eslint-formatter-bargraph.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Brian Jacobel <bjacobel@edx.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjacobel/eslint-formatter-bargraph/issues"
+  },
+  "homepage": "https://github.com/bjacobel/eslint-formatter-bargraph#readme",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "jsdom": "^9.3.0"
+  }
+}
