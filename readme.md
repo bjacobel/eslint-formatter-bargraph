@@ -10,3 +10,6 @@ eslint --format node_modules/eslint-formatter-bargraph .
 #### Requirements:
 - Google Chrome
 - OS X
+
+#### Example:
+![](https://files.bjacobel.com/eslintresults.svg)
